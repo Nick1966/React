@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "react1",
+=======
+  "name": "my-react1",
+>>>>>>> 5f09886 (Initialize project using Create React App)
   "version": "0.1.0",
   "private": true,
   "dependencies": {
