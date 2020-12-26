@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-  <component name="ChangeListManager">
-    <list default="true" id="378e23e1-2d4f-4c4c-889d-4848600914cd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ccomponent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fcomponent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Menu.js" afterDir="false" />
-=======
   <component name="ChangeListManager">
     <list default="true" id="9a10a603-24b0-4b7e-8db3-d01c7d11071a" name="Default Changelist" comment="">
->>>>>>> 5f09886 (Initialize project using Create React App)
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
@@ -28,26 +18,10 @@
     </option>
   </component>
   <component name="Git.Settings">
-<<<<<<< HEAD
-    <option name="PUSH_TAGS">
-      <GitPushTagMode>
-        <option name="argument" value="--tags" />
-        <option name="title" value="All" />
-      </GitPushTagMode>
-    </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectId" id="1m7qeiKgxb7C9pYjV94NkorOXFt" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
->>>>>>> 2e9935b (Initialize project using Create React App)
-=======
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1mAXKKYbVd4Pyanj6kJ8shWWRQ0" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
->>>>>>> 5f09886 (Initialize project using Create React App)
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -55,13 +29,6 @@
     <option name="sortByType" value="true" />
   </component>
   <component name="PropertiesComponent">
-<<<<<<< HEAD
-<<<<<<< HEAD
-    <property name="last_opened_file_path" value="$USER_HOME$/node-v10.16.0-win-x64/node.exe" />
-=======
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-=======
->>>>>>> 5f09886 (Initialize project using Create React App)
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -72,15 +39,6 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
-<<<<<<< HEAD
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
-  <component name="RunManager" selected="npm.npm start">
-    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
-      <method v="2" />
-    </configuration>
-=======
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Node.js.App.js">
@@ -93,7 +51,6 @@
     <configuration name="Ccomponent.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/Ccomponent.js" working-dir="$PROJECT_DIR$/src">
       <method v="2" />
     </configuration>
->>>>>>> 5f09886 (Initialize project using Create React App)
     <configuration name="npm start" type="js.build_tools.npm">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -104,36 +61,22 @@
       <envs />
       <method v="2" />
     </configuration>
-<<<<<<< HEAD
-=======
     <recent_temporary>
       <list>
         <item itemvalue="Node.js.App.js" />
         <item itemvalue="Node.js.Ccomponent.js" />
       </list>
     </recent_temporary>
->>>>>>> 5f09886 (Initialize project using Create React App)
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-<<<<<<< HEAD
-      <changelist id="378e23e1-2d4f-4c4c-889d-4848600914cd" name="Default Changelist" comment="" />
-      <created>1608855078946</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1608855078946</updated>
-      <workItem from="1608855081246" duration="6242000" />
-      <workItem from="1608870922380" duration="4772000" />
-      <workItem from="1608927351208" duration="2755000" />
-=======
       <changelist id="9a10a603-24b0-4b7e-8db3-d01c7d11071a" name="Default Changelist" comment="" />
       <created>1608937310194</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608937310194</updated>
       <workItem from="1608937312243" duration="4068000" />
->>>>>>> 5f09886 (Initialize project using Create React App)
     </task>
     <servers />
   </component>
@@ -150,14 +93,5 @@
         </entry>
       </map>
     </option>
-<<<<<<< HEAD
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
->>>>>>> 2e9935b (Initialize project using Create React App)
-=======
->>>>>>> 5f09886 (Initialize project using Create React App)
   </component>
 </project>
