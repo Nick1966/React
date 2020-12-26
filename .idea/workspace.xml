@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a10a603-24b0-4b7e-8db3-d01c7d11071a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_.xml" afterDir="false" />
+    <list default="true" id="9a10a603-24b0-4b7e-8db3-d01c7d11071a" name="Default Changelist" comment="Initialize project using Create React App">
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/my-react1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/my-react1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ccomponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ccomponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fcomponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fcomponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stylesNew.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/stylesNew.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +91,7 @@
       <workItem from="1608937312243" duration="5006000" />
       <workItem from="1608942496546" duration="1001000" />
       <workItem from="1608943560144" duration="328000" />
+      <workItem from="1608969466164" duration="529000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize project using Create React App">
       <created>1608941914156</created>
@@ -106,7 +114,28 @@
       <option name="project" value="LOCAL" />
       <updated>1608943221460</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Initialize project using Create React App">
+      <created>1608969217321</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608969217321</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Initialize project using Create React App">
+      <created>1608969270180</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1608969270180</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Initialize project using Create React App">
+      <created>1608969289146</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1608969289146</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

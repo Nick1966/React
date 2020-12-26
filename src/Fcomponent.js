@@ -8,10 +8,3 @@ export default function Fcomponent(props) {
     )
 }
 
-export default function Fcomponent(props) {
-    return (
-        <div>
-            <h1>Hello, Nick{props.name}</h1>
-        </div>
-    )
-}
