@@ -1,0 +1,64 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"9a10a603-24b0-4b7e-8db3-d01c7d11071a\" name=\"Default Changelist\" comment=\"\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"JavaScript File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1mAXKKYbVd4Pyanj6kJ8shWWRQ0\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n    <option name=\"showMembers\" value=\"true\" />\r\n    <option name=\"sortByType\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"ASKED_SHARE_PROJECT_CONFIGURATION_FILES\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"last_opened_file_path\" value=\"$USER_HOME$/node-v10.16.0-win-x64/node.exe\" />\r\n    <property name=\"node.js.detected.package.eslint\" value=\"true\" />\r\n    <property name=\"node.js.path.for.package.eslint\" value=\"project\" />\r\n    <property name=\"node.js.selected.package.eslint\" value=\"(autodetect)\" />\r\n    <property name=\"nodejs_interpreter_path\" value=\"node\" />\r\n    <property name=\"nodejs_package_manager_path\" value=\"npm\" />\r\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"npm.npm start\">\r\n    <configuration name=\"Debug Application\" type=\"JavascriptDebugType\" uri=\"http://localhost:3000\">\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"App.js\" type=\"NodeJSConfigurationType\" temporary=\"true\" nameIsGenerated=\"true\" path-to-js-file=\"$PROJECT_DIR$/src/App.js\" working-dir=\"$PROJECT_DIR$/src\">\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"Ccomponent.js\" type=\"NodeJSConfigurationType\" temporary=\"true\" nameIsGenerated=\"true\" path-to-js-file=\"$PROJECT_DIR$/src/Ccomponent.js\" working-dir=\"$PROJECT_DIR$/src\">\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"npm start\" type=\"js.build_tools.npm\">\r\n      <package-json value=\"$PROJECT_DIR$/package.json\" />\r\n      <command value=\"run\" />\r\n      <scripts>\r\n        <script value=\"start\" />\r\n      </scripts>\r\n      <node-interpreter value=\"project\" />\r\n      <envs />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Node.js.App.js\" />\r\n        <item itemvalue=\"Node.js.Ccomponent.js\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"9a10a603-24b0-4b7e-8db3-d01c7d11071a\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1608937310194</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1608937310194</updated>\r\n      <workItem from=\"1608937312243\" duration=\"5006000\" />\r\n      <workItem from=\"1608942496546\" duration=\"1001000\" />\r\n      <workItem from=\"1608943560144\" duration=\"328000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Initialize project using Create React App\">\r\n      <created>1608941914156</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1608941914156</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Initialize project using Create React App\">\r\n      <created>1608942321206</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1608942321206</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Initialize project using Create React App\">\r\n      <created>1608943221460</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1608943221460</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"4\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"origin/master\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Initialize project using Create React App\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Initialize project using Create React App\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 3dd1ee1eaeb2b08820e96122f8d5ed9d490da245)
++++ b/.idea/workspace.xml	(date 1608945210968)
+@@ -1,9 +1,7 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="9a10a603-24b0-4b7e-8db3-d01c7d11071a" name="Default Changelist" comment="">
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-    </list>
++    <list default="true" id="9a10a603-24b0-4b7e-8db3-d01c7d11071a" name="Default Changelist" comment="Initialize project using Create React App" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -77,7 +75,7 @@
+       <updated>1608937310194</updated>
+       <workItem from="1608937312243" duration="5006000" />
+       <workItem from="1608942496546" duration="1001000" />
+-      <workItem from="1608943560144" duration="328000" />
++      <workItem from="1608943560144" duration="1105000" />
+     </task>
+     <task id="LOCAL-00001" summary="Initialize project using Create React App">
+       <created>1608941914156</created>
+@@ -100,7 +98,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1608943221460</updated>
+     </task>
+-    <option name="localTasksCounter" value="4" />
++    <task id="LOCAL-00004" summary="Initialize project using Create React App">
++      <created>1608943932291</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1608943932291</updated>
++    </task>
++    <option name="localTasksCounter" value="5" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+Index: src/App.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>import React from 'react';\r\nimport logo from './logo.svg';\r\nimport './App.css';\r\nimport Fcomponent from \"./Fcomponent\";\r\nimport Ccomponent from \"./Ccomponent\";\r\n\r\nfunction App() {\r\n  return (\r\n    <div className=\"App\">\r\n      <header className=\"App-header\">\r\n        <Fcomponent/>\r\n        <Ccomponent/>\r\n        <img src={logo} className=\"App-logo\" alt=\"logo\" />\r\n        <p>\r\n          Edit <code>src/App.js</code> and save to reload.\r\n        </p>\r\n        <a\r\n          className=\"App-link\"\r\n          href=\"https://reactjs.org\"\r\n          target=\"_blank\"\r\n          rel=\"noopener noreferrer\"\r\n        >\r\n          Learn React 2020\r\n        </a>\r\n      </header>\r\n    </div>\r\n  );\r\n}\r\n\r\nexport default App;\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/App.js b/src/App.js
+--- a/src/App.js	(revision 3dd1ee1eaeb2b08820e96122f8d5ed9d490da245)
++++ b/src/App.js	(date 1608945252913)
+@@ -3,7 +3,6 @@
+ import './App.css';
+ import Fcomponent from "./Fcomponent";
+ import Ccomponent from "./Ccomponent";
+-
+ function App() {
+   return (
+     <div className="App">
