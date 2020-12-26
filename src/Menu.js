@@ -1,8 +1,5 @@
 import React from 'react';
-<<<<<<< HEAD
 
-=======
->>>>>>> a30f5e9 (Initialize project using Create React App)
 const Menu = () => {
     return (
         <div>
@@ -10,8 +7,5 @@ const Menu = () => {
         </div>
     );
 }
-<<<<<<< HEAD
 export default Menu;
-=======
-export default Menu;
->>>>>>> a30f5e9 (Initialize project using Create React App)
+
