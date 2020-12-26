@@ -1,8 +1,4 @@
 import React, {Component} from 'react';
-<<<<<<< HEAD
-
-=======
->>>>>>> a30f5e9 (Initialize project using Create React App)
 export default class Ccomponent extends Component {
     constructor(props) {
         super(props);
