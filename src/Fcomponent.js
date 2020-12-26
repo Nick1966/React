@@ -1,5 +1,4 @@
 import React from "react";
-<<<<<<< HEAD
 
 export default function Fcomponent(props) {
     return (
@@ -9,7 +8,6 @@ export default function Fcomponent(props) {
     )
 }
 
-=======
 export default function Fcomponent(props) {
     return (
         <div>
@@ -17,4 +15,3 @@ export default function Fcomponent(props) {
         </div>
     )
 }
->>>>>>> a30f5e9 (Initialize project using Create React App)
