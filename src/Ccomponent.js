@@ -1,43 +1,37 @@
 import React, {Component} from 'react';
+import "./stylesNew.css"
 
 export default class Ccomponent extends Component {
     constructor(props) {
         super(props);
-        this.state = {
-            count: 0
-        };
-        this.increment = this.increment.bind(this);
-        this.decrement = this.decrement.bind(this);
-        this.reset = this.reset.bind(this);
+        this.state = {class: "off", label: "Press"};
+        this.press = this.press.bind(this);
+        console.log("constructor");
     }
 
-    increment() {
-        this.setState(state => ({
-            count: state.count + 1
-        }));
+    componentDidMount() {
+        console.log("componentDidMount()");
     }
 
-    decrement() {
-        this.setState(state => ({
-            count: state.count - 1
-        }));
+    shouldComponentUpdate() {
+        console.log("shouldComponentUpdate()");
+        return true;
     }
 
-    reset() {
-        this.setState({
-            count: 0
-        })
+    componentDidUpdate() {
+        console.log("componentDidUpdate()");
+    }
+
+    componentWillUnmount() {
+    }
+
+    press() {
+        var className = (this.state.class === "off") ? "on" : "off";
+        this.setState({class: className});
     }
 
     render() {
-        return (
-            <div>
-                <button onClick={this.increment}>increment</button>
-                <button onClick={this.decrement}>decrement</button>
-                <button onClick={this.reset}>reset</button>
-                <h1>Current: {this.state.count}</h1>
-            </div>
-        )
-
+        console.log("render()");
+        return <button onClick={this.press} className={this.state.class}>{this.state.label}</button>;
     }
 }
