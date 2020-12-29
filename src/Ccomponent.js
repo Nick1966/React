@@ -1,37 +1,52 @@
 import React, {Component} from 'react';
 import "./stylesNew.css"
+//import Fcomponent from "./Fcomponent";
 
 export default class Ccomponent extends Component {
     constructor(props) {
         super(props);
-        this.state = {class: "off", label: "Press"};
-        this.press = this.press.bind(this);
-        console.log("constructor");
+        this.state = {
+            error: null,
+            isLoaded: false,
+            items: []
+        };
     }
 
     componentDidMount() {
-        console.log("componentDidMount()");
-    }
-
-    shouldComponentUpdate() {
-        console.log("shouldComponentUpdate()");
-        return true;
-    }
-
-    componentDidUpdate() {
-        console.log("componentDidUpdate()");
-    }
-
-    componentWillUnmount() {
-    }
-
-    press() {
-        var className = (this.state.class === "off") ? "on" : "off";
-        this.setState({class: className});
+        fetch("https://www.thecocktaildb.com/api/json/v1/1/filter.php?c=Cocktail")
+            .then(res => res.json())
+            .then(
+                (result) => {
+                    this.setState({
+                        isLoader: true,
+                        items: result.drinks
+                    });
+                },
+                (error) => {
+                    this.setState({
+                        isLoaded: true,
+                        error
+                    });
+                }
+            )
     }
 
     render() {
-        console.log("render()");
-        return <button onClick={this.press} className={this.state.class}>{this.state.label}</button>;
+        const {error, isLoaded, items} = this.state;
+        if (error) {
+            return <p> Loading...</p>
+        } else {
+            return (
+                <ul>
+                    {items.map(item =>
+                        <li key={item.name}>
+                            {item.strDrink}
+                            <img width="50" height="50" src={item.strDrinkThumb}/>
+                        </li>)}
+                </ul>
+            )
+        }
+
     }
+
 }
